@@ -1,5 +1,30 @@
 <img width="1280" height="640" alt="Design OS" src="https://github.com/user-attachments/assets/a9c04258-7b9a-45b6-8475-3431cdf5dbe9" />
 
+## Quick Start
+
+Create a new Design OS project with a single command:
+
+```bash
+bun create https://github.com/gustavochura/design-os your-project-name
+cd your-project-name
+bun dev
+```
+
+Open your browser at `http://localhost:5173` and start planning your product.
+
+### What is Design OS for?
+
+Design OS is your workspace for planning products before writing code. Instead of jumping straight into implementation, you use Design OS to:
+
+- **Define your vision** — What you're building and why
+- **Model your data** — Core entities and their relationships
+- **Design your UI** — Screens, components, and user flows
+- **Export everything** — A complete package ready to hand off to your coding agent
+
+The result is a clear plan, designed components, and ready-to-use prompts that your AI agent can follow to build exactly what you envisioned.
+
+---
+
 ## The missing design process between your idea and your codebase.
 
 [Design OS](https://buildermethods.com/design-os) is a product planning and design tool that helps you define your product vision, sketch out your data shape, design your UI, and export production-ready components for implementation. Rather than jumping straight into code, you work through a guided process that captures what you're building and why—then hands off everything your coding agent needs to build it right.
