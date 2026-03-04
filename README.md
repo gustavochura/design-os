@@ -5,7 +5,7 @@
 Create a new Design OS project with a single command:
 
 ```bash
-bun create https://github.com/gustavochura/design-os your-project-name
+bun create gustavochura/design-os your-project-name
 cd your-project-name
 bun dev
 ```
